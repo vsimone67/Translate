@@ -1,0 +1,13 @@
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.exe
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.deps.json
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.runtimeconfig.json
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.runtimeconfig.dev.json
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.dll
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\translate.pdb
+C:\VS2019\Playground\Translate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.csprojAssemblyReference.cache
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.AssemblyInfoInputs.cache
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.AssemblyInfo.cs
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.csproj.CopyComplete
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.dll
+C:\VS2019\Playground\Translate\obj\Debug\netcoreapp3.1\translate.pdb
